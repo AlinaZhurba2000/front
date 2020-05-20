@@ -1,0 +1,28 @@
+.squer{
+    stroke: black;
+    stroke-width: 1;
+    fill:url(#grad);
+    
+}
+
+.oil{
+    stroke: gold;
+    stroke-width: 2;
+    fill:black;
+}
+
+.lineOil{
+    stroke:gold;
+    stroke-width: 2;
+}
+.poligon{
+    stroke:gold;
+    stroke-width: 0;
+}
+
+.text{
+    fill: black;
+    font-family:Arial Narrow, sans-serif ;
+    
+}
+
